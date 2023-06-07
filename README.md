@@ -21,10 +21,7 @@ Print the result.
 ### Step 8: 
 End the program.
 ## PROGRAM:
-~~~
-Name   : H.Syed Abdul Wasih
-Reg No : 212221240057
-~~~
+
 ~~~
 class Animal{
     void walk()
